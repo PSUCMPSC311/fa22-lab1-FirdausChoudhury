@@ -1,6 +1,7 @@
 #include "student.h"
 
 int squareOfSmallest(int array[], int length) {
+	//just testing
 	return -1;
 }
 
